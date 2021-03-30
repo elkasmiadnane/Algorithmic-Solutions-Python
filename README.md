@@ -1,2 +1,2 @@
-# Algorithmic Solutions Python
- Solving Algorithmic Problems with Python
+# Algorithmic Solutions Python Compared to C
+
